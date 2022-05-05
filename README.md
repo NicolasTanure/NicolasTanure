@@ -1,3 +1,4 @@
+### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
 ### Olá tudo bem? 👋 / hello how are you? 👋
 
 - 🔭 Desenvolvedor Fullstack
