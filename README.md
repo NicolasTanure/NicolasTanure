@@ -4,12 +4,12 @@
 - 🔭 Desenvolvedor Fullstack
 - 🌱 Cursando engenharia de software
 - 📫 Email:Nicolastanurem@hotmail.com
-About Me
+
+### About Me
 Hey there! I’m Nicolas Tanure Miszczuk, 20 years old, currently living in Brazil.
-
 I am a software engineer student, graduating in PUC.
-
 A software developer who is also passionate about user interface design and i love tecnology in general.
+
 <div align="center">
   <a href="https://github.com/NicolasTanure">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasTanure&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
