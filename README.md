@@ -1,9 +1,9 @@
 ### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
 ### Olá tudo bem? 👋 / hello how are you? 👋
 
-- 🔭 Futuro desenvolvedor Fullstack
-- 🌱 Cursando engenharia de software
-- 📫 Email:Nicolastanurem@hotmail.com
+- 🔭 future full stack developer
+- 🌱 studying software engineering
+- 📫 Nicolastanurem@hotmail.com
 
 ### About Me/ Sobre mim
 Hey there! I’m Nicolas Tanure Miszczuk, 20 years old, currently living in Brazil.
