@@ -1,7 +1,7 @@
 ### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
 ### Olá tudo bem? 👋 / hello how are you? 👋
 
-- 🔭 future full stack developer
+- 🔭 full stack developer
 - 🌱 studying software engineering
 - 📫 Nicolastanurem@hotmail.com
 
