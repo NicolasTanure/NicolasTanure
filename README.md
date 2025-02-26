@@ -6,11 +6,15 @@
 - 📫 Nicolastanurem@hotmail.com
 
 ### About Me/ Sobre mim
-Hey there! I’m Nicolas Tanure Miszczuk, 20 years old, currently living in Brazil.
-I am a software engineer student, graduating in PUCRS. I study programming since my 12 years old on my own.
+Hey there! I’m Nicolas Tanure Miszczuk, 21 years old, currently living in Brazil.
+I am a software engineer student, graduating in PUCRS. 
 A software developer who is also passionate about user interface design and i love tecnology in general.
 
-/ Sou Nicolas Tanure Miszczuk, 20 anos, atualmente morando no Brasil.Sou estudante de engenharia de software, graduando-me na PUCRS. Eu estudo programação desde os meus 12 anos por conta própria.Um desenvolvedor de software que também é apaixonado por design de interface de usuário e adoro tecnologia em geral
+I am currently working as an backend developer at SAP
+
+/ Sou Nicolas Tanure Miszczuk, 20 anos, atualmente morando no Brasil.Sou estudante de engenharia de software, graduando-me na PUCRS. Eu estudo programação desde os meus 12 anos por conta própria.Um desenvolvedor de software que também é apaixonado por design de interface de usuário e adoro tecnologia em geral.
+
+Estou atualmente trabalhando como desenvolvedor backend na SAP
 
 <div align="center">
   <a href="https://github.com/NicolasTanure">
