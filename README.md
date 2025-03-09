@@ -1,20 +1,18 @@
 ### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
 ### Olá tudo bem? 👋 / hello how are you? 👋
 
-- 🔭 full stack developer
-- 🌱 studying software engineering
+- 🔭 full stack developer @SAP
+- 🌱 studying software engineering @PUCRS
 - 📫 Nicolastanurem@hotmail.com
 
-### About Me/ Sobre mim
-Hey there! I’m Nicolas Tanure Miszczuk, 21 years old, currently living in Brazil.
+### About Me/ 
+Hey there! I’m Nicolas Tanure Miszczuk.
 I am a software engineer student, graduating in PUCRS. 
-A software developer who is also passionate about user interface design and i love tecnology in general.
-
 I am currently working as an backend developer at SAP
 
-/ Sou Nicolas Tanure Miszczuk, 20 anos, atualmente morando no Brasil.Sou estudante de engenharia de software, graduando-me na PUCRS. Eu estudo programação desde os meus 12 anos por conta própria.Um desenvolvedor de software que também é apaixonado por design de interface de usuário e adoro tecnologia em geral.
 
-Estou atualmente trabalhando como desenvolvedor backend na SAP
+
+
 
 <div align="center">
   <a href="https://github.com/NicolasTanure">
