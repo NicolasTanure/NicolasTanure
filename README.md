@@ -47,9 +47,7 @@ I am currently working as an backend developer at SAP
   ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-tanure-miszczuk-23a0881b1/)
-<a href="nicolastanurem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
  
 #### Most used technologies
 
