@@ -10,6 +10,8 @@ Hey there! I’m Nicolas Tanure Miszczuk.
 I am a software engineer student, graduating in PUCRS. 
 I am currently working as an backend developer at SAP
 
+Currently learning cybersecurity for fun in my free time
+
 
 
 
