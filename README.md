@@ -1,5 +1,4 @@
 ### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
-### Olá tudo bem? 👋 / hello how are you? 👋
 
 - 🔭 full stack developer @SAP
 - 🌱 studying software engineering @PUCRS
