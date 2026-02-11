@@ -31,10 +31,7 @@ Currently learning cybersecurity for fun in my free time
   ##
   <div> 
   
-  <a href="https://instagram.com/nicolas_tanure01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Pesicotapa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
- </a>
+ 
   <a href="https://www.linkedin.com/in/nicolas-tanure-miszczuk-23a0881b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
