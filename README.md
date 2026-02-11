@@ -1,7 +1,7 @@
 ### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
 
 - 🔭 full stack developer @SAP
-- 🌱 B.S. in Software Engineering @PUCRS
+- 📖 B.S. in Software Engineering @PUCRS
 - 📫 Nicolastanurem@hotmail.com
 
 ### About Me/ 
