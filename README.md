@@ -1,13 +1,13 @@
 ### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
 
 - 🔭 full stack developer @SAP
-- 🌱 studying software engineering @PUCRS
+- 🌱 B.S. in Software Engineering @PUCRS
 - 📫 Nicolastanurem@hotmail.com
 
 ### About Me/ 
 Hey there! I’m Nicolas Tanure Miszczuk.
-I am a software engineer student, graduating in PUCRS. 
-I am currently working as an backend developer at SAP
+I am a software engineer student,B.S. in Software Engineering @PUCRS 
+I am currently working as an backend developer at @SAP
 
 Currently learning cybersecurity for fun in my free time
 
