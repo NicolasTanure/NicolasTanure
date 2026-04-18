@@ -1,38 +1,22 @@
-### Bem vindo ao meu  perfil👍 / Welcome to my profile👍
+### Bem vindo ao meu perfil👍 / Welcome to my profile👍
 
-- 🔭 full stack developer @SAP
-- 📖 B.S. in Software Engineering @PUCRS
+- 🔭 Full Stack Developer @ SAP
+- 📖 B.S. in Software Engineering @ PUCRS
 - 📫 Nicolastanurem@hotmail.com
 
-### About Me/ 
-Hey there! I’m Nicolas Tanure Miszczuk.
-I am a software engineer student,B.S. in Software Engineering @PUCRS 
-I am currently working as an backend developer at @SAP
+### About Me
+Hey there! I’m Nicolas Tanure Miszczuk.  
+I’m a Software Engineering student at PUCRS and currently work as a backend developer at SAP.  
 
-Currently learning cybersecurity for fun in my free time
+Currently learning cybersecurity for fun in my free time.
 
+| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> | <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> | <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> | <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> | <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> | <img alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" /> | <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> | <img alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /> | <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" /> |
 
-
-
-
-
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="30" style="max-width: 100%;">
-  <img align="center" alt="Nick-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-</div>
-  
-  ##
-  <div> 
-  
- 
-  <a href="https://www.linkedin.com/in/nicolas-tanure-miszczuk-23a0881b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/nicolas-tanure-miszczuk-23a0881b1/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
  
 
  
